@@ -1,69 +1,68 @@
-## Data Workbook: Week 2 - Data Visualization with Tableau & Power BI
+## Workbook: Week 2 - Tableau and Microsoft Power BI 📊
 
-This document summarizes the activities and key findings from Week 2 of the data workbook, focusing on data analysis and visualization using **Tableau** and **Power BI**
+This workbook shifts the focus from foundational spreadsheet skills to **specialized Business Intelligence (BI)** and **data visualization tools**, specifically **Tableau** and **Microsoft Power BI**.
 
------
+***
 
-### Dataset Visualization Snapshot: Spotify Analysis
+### 1. Tableau Fundamentals
 
-This image captures the **Spotify Analysis Dashboard** created in Tableau, illustrating several key trends found in the data.
+This section covered research and foundational knowledge of the Tableau ecosystem.
 
------
+* **Objective:** Compare different Tableau versions and explain the limitations of **Tableau Public**.
+* **Key Concepts:** Tableau Public's limited functionality includes a **lack of data security** and the **inability to connect to private databases**.
 
-### Day 1: Tableau Research and Dashboard Creation
+---
 
-#### Task 1: Tableau Versions Comparison
+### 2. Dashboard Creation
 
-Research was conducted to compare different Tableau versions and explain the limitations of **Tableau Public**.
+A practical task was completed using Tableau to visualize labor market changes.
 
-  * **Tableau Public Limitations:** Its functionality is limited primarily by a lack of **data security**, its inability to connect to **private databases and cloud services**, and its **online-only publishing model**.
+* **Dataset:** `EMSI_JobChange_UK`
+* **Output:** A dashboard incorporating:
+    * A **bar chart** to show percentage change.
+    * A **UK map** to visualize impacted city locations.
 
-#### Task 2: EMSI Job Change Dashboard
+---
 
-A Tableau dashboard was created using the `EMSI_JobChange_UK` dataset.
+### 3. Data Analysis & Trend Finding
 
-  * **Dashboard Components:** A bar chart showing **percentage change** and a UK-based map illustrating the **key city locations impacted**.
+This involved an in-depth **Exploratory Data Analysis (EDA)** of a music dataset to discover actionable insights.
 
------
+* **Dataset:** Spotify Dataset
+* **Key Trends Found:**
+    * Music **genre popularity** (e.g., Pop is the most popular).
+    * Popularity correlated with **danceability**.
+    * Specific **artist popularity** (identifying **Drake** as the most popular).
+    * Analysis of **average song length**.
 
-### Day 2: Advanced Data Analysis in Tableau
+---
 
-Analysis was performed on two distinct datasets to find and document trends, with visualizations created for each.
+### 4. Data Transformation and Loading (Power BI)
 
-#### Task 1: Spotify Data Analysis
+This marked the start of the Power BI segment, focusing on the essential data preparation steps.
 
-Analysis was conducted to find trends and key information for potential future projects.
+* **Task:** Completion of **Power BI Lab 2**.
+* **Focus:** Mastering the processes required to **Load Transformed Data** into the Power BI Desktop environment, a critical step in the BI workflow.
 
-| Analysis Area | [cite\_start]Key Findings [cite: 13] |
-| :--- | :--- |
-| **Genre Popularity** | **Pop music** is the most popular genre on Spotify with 625,020 users. Acapella is the least popular with only 1,107 users. |
-| **Popularity by Danceability** | **Hip-Hop** is the most danceable genre with a danceability score of 6,681, compared to Acapella's score of 49. |
-| **Artist Analysis** | **Drake** is by far the most popular artist, with over 31,000 users listening to him on Spotify. |
-| **Length & Popularity** | Many music genres (Pop, Rap, Rock, Dance, etc.) have an average duration ranging from **$3.5$ to $4$ minutes**. |
+---
 
-#### Task 2: Health Data Analysis
+### 5. Business Intelligence Reporting
 
-Analysis was conducted using the Health dataset to find trends that could be used by an organization for future support.
+The final tasks demonstrated full-cycle BI project skills from data to delivery.
 
-  * **Reflection on NHS Support:** This data could support decision-making for the NHS, as data is increasingly being used and can be lifesaving.
+* **Tasks:** Completion of two key Power BI labs:
+    * **Designing a Report** (Lab 8).
+    * **Creating a Power BI Dashboard** (Lab 12).
 
-| Analysis Area | [cite\_start]Key Findings [cite: 18] |
-| :--- | :--- |
-| **BMI per Country** | **Tonga** has the highest BMI, and **Bangladesh** has the lowest. |
-| **Cancer Rates** | **China** has the highest overall cancer rates, much more than the US and Japan. |
-| **Lung Cancer Rate** | **China** also has the highest lung cancer rate with $7,162,300$ people. |
-| **Life Expectancy** | The average life expectancy has **gradually increased** in each continent over the years. |
-| **BMI vs. Life Expectancy** | The average life expectancy correlates to the average BMI (e.g., Iceland has an average life expectancy of $79.73$ with an average BMI score of $25.80$). |
+***
 
------
+### Technical Skills Demonstrated
 
-### Days 3 & 4: Power BI Desktop Labs
-
-[cite\_start]The final part of the workbook involved completing practical laboratory exercises in **Power BI Desktop**[cite: 19, 24, 29, 34].
-
-| Day | Task | Lab Focus |
-| :--- | :--- | :--- |
-| **Day 3** | [cite\_start]Task 1 [cite: 19] | Lab 1: **Get Data** in Power BI Desktop |
-| **Day 3** | [cite\_start]Task 2 [cite: 24] | Lab 2: **Load Transformed Data** in Power BI Desktop |
-| **Day 4** | [cite\_start]Task 1 [cite: 29] | Lab 8: **Design a Report** in Power BI Desktop |
-| **Day 4** | [cite\_start]Task 2 [cite: 34] | Lab 12: **Create a Power BI Dashboard** |
+* **Software:** **Tableau**, **Microsoft Power BI Desktop**
+* **Concepts:**
+    * Data Visualization
+    * Dashboard Creation
+    * Business Intelligence (BI) Workflow
+    * Data Exploration (EDA) and Trend Analysis
+    * Data Preparation (ETL/Transform)
+    * Data Security
