@@ -1,61 +1,70 @@
-Workbook: Week 1 - Data and Microsoft Excel
-This workbook serves as an introduction to foundational concepts in data governance and core data analysis skills using spreadsheets in Microsoft Excel.
+## Workbook: Week 1 - Data and Microsoft Excel
 
-Dataset Snapshot
+This workbook serves as an introduction to **foundational concepts in data governance** and **core data analysis skills** using spreadsheets in Microsoft Excel.
+
+-----
+
+### Dataset Snapshot
+
 The following image shows a portion of the retail sales data used for the foundational spreadsheet tasks.
 
-Ensure the image file Week_1_Retail_Sales_Dataset.jpg is uploaded to the repository alongside this README.
+*Ensure the image file `Week_1_Retail_Sales_Dataset.jpg` is uploaded to the repository alongside this README.*
 
-1. Data Governance and Compliance
-This section involved an in-depth analysis of key UK and EU data protection laws.
+-----
 
-Laws Covered: Data Protection Act, General Data Protection Regulation (GDPR), Freedom of Information Act, and Computer Misuse Act.
+### 1\. Data Governance and Compliance
 
-Focus: Understanding the purpose, importance, and real-world application of each law, as well as the consequences of breaching them.
+This section involved an in-depth analysis of key **UK and EU data protection laws**.
 
-2. Foundational Spreadsheet Skills
-Practical exercises were performed using the retail-sales_dataset.xlsx.
+  * **Laws Covered:** Data Protection Act, General Data Protection Regulation (**GDPR**), Freedom of Information Act, and Computer Misuse Act.
+  * **Focus:** Understanding the **purpose, importance, and real-world application** of each law, as well as the **consequences of breaching** them.
 
-Skills Demonstrated:
+-----
 
-Adding data to a structured table.
+### 2\. Foundational Spreadsheet Skills
 
-Sorting data (e.g., sorting the Age column from largest to smallest).
+Practical exercises were performed using the `retail-sales_dataset.xlsx`.
 
-Calculating basic statistics using Excel functions: SUM (for totals) and AVERAGE (for averages).
+  * **Skills Demonstrated:**
+      * Adding data to a structured table.
+      * **Sorting data** (e.g., sorting the *Age* column from largest to smallest).
+      * Calculating basic statistics using Excel functions: **`SUM`** (for totals) and **`AVERAGE`** (for averages).
 
-3. Advanced Spreadsheet Analysis
-This section focused on hands-on experience with advanced data summarization techniques.
+-----
 
-Technique: Creating and interpreting Pivot Tables on a dedicated bike sales dataset.
+### 3\. Advanced Spreadsheet Analysis
 
-Analysis Included: Findings related to market, age group, and gender profitability.
+This section focused on hands-on experience with **advanced data summarization techniques**.
 
-4. Conditional Data Categorization
+  * **Technique:** Creating and interpreting **Pivot Tables** on a dedicated bike sales dataset.
+  * **Analysis Included:** Findings related to **market, age group, and gender profitability**.
+
+-----
+
+### 4\. Conditional Data Categorization
+
 Application of advanced conditional logic for data classification.
 
-Function: Utilized the SWITCH function in Excel.
+  * **Function:** Utilized the **`SWITCH`** function in Excel.
+  * **Goal:** Categorizing products into **"High," "Medium," or "Low" sales volumes** based on predefined sales thresholds.
 
-Goal: Categorizing products into "High," "Medium," or "Low" sales volumes based on predefined sales thresholds.
+-----
 
-5. Data Interpretation
-Tasks involving basic Exploratory Data Analysis (EDA) to understand data distribution and extremes.
+### 5\. Data Interpretation
 
-Functions: Used MAX and MIN to identify sales extremes (highest and lowest sales) per region.
+Tasks involving basic **Exploratory Data Analysis (EDA)** to understand data distribution and extremes.
 
-Skills: Filtering data based on specific criteria (e.g., filtering by game manufacturer and year).
+  * **Functions:** Used **`MAX`** and **`MIN`** to identify sales extremes (highest and lowest sales) per region.
+  * **Skills:** **Filtering data** based on specific criteria (e.g., filtering by game manufacturer and year).
 
-Technical Skills Demonstrated
-Software: Microsoft Excel (or equivalent spreadsheet software)
+-----
 
-Concepts:
+## Technical Skills Demonstrated
 
-Data Protection Law (GDPR, DPA)
-
-Relational Data
-
-Data Summarization (SUM, AVERAGE, Pivot Tables)
-
-Conditional Logic (SWITCH function)
-
-Data Visualisation Tools (Evaluated)
+  * **Software:** Microsoft Excel (or equivalent spreadsheet software)
+  * **Concepts:**
+      * Data Protection Law (GDPR, DPA)
+      * Relational Data
+      * Data Summarization (`SUM`, `AVERAGE`, Pivot Tables)
+      * Conditional Logic (`SWITCH` function)
+      * Data Visualisation Tools (Evaluated)
