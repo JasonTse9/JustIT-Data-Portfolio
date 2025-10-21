@@ -54,14 +54,14 @@ Application of advanced conditional logic for data classification.
 
 Tasks involving basic Exploratory Data Analysis (EDA) to understand data distribution.
 
-* **Functions:** Used `MAX` and `MIN` to identify sales extremes (highest and lowest sales) per region.
-* **Skills:** Filtering data based on specific criteria (e.g., filtering by game manufacturer and year).
+* **Functions:** Used `MAX` and `MIN` to identify sales (highest and lowest sales) per product category.
+* **Skills:** Filtering data based on specific criteria (e.g., filtering by product category).
 
 ---
 
 ## Technical Skills Demonstrated
 
-* **Software:** Microsoft Excel (or equivalent spreadsheet software)
+* **Software:** Microsoft Excel
 * **Concepts:**
     * Data Protection Law (GDPR, DPA)
     * Relational Data
