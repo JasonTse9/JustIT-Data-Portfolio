@@ -1,11 +1,3 @@
-Adding the image directly into a standard Markdown README file on GitHub requires an image link. Since the image you provided is a local upload, I cannot generate a direct public link for it.
-
-However, I can update the README with the standard Markdown syntax for an image, assuming you will upload the image file (`Week_1_Retail_Sales_Dataset.jpg`) to the same GitHub repository folder as the `README.md`.
-
-Here is the updated `README.md` with the image link included:
-
------
-
 ## Workbook: Week 1 - Data and Microsoft Excel
 
 This workbook serves as an introduction to **foundational concepts in data governance** and **core data analysis skills** using spreadsheets in Microsoft Excel.
