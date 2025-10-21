@@ -10,7 +10,6 @@ This workbook serves as an introduction to **foundational concepts in data gover
 
 The following image shows a portion of the retail sales data used for the foundational spreadsheet tasks.
 
-*If you have uploaded the image to your repository, include the link here:*
 `![Sample of the Retail Sales Dataset used in Week 1](Week_1_Retail_Sales_Dataset.jpg)`
 
 ---
@@ -30,7 +29,7 @@ Practical exercises were performed using the `retail-sales_dataset.xlsx`.
 
 * **Skills Demonstrated:**
     * Adding data to a structured table.
-    * **Sorting data** (e.g., sorting the *Age* column from largest to smallest).
+    * **Sorting data** (e.g., sorting the "Age" column from largest to smallest).
     * Calculating basic statistics using Excel functions: **`SUM`** (for totals) and **`AVERAGE`** (for averages).
 
 ---
