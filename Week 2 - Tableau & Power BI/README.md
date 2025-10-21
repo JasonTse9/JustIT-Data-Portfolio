@@ -1,6 +1,6 @@
 ## Data Workbook: Week 2 - Data Visualization with Tableau & Power BI
 
-[cite\_start]This document summarizes the activities and key findings from Week 2 of the data workbook, focusing on data analysis and visualization using **Tableau** and **Power BI**[cite: 3, 6, 9, 14, 19, 24, 29, 34].
+This document summarizes the activities and key findings from Week 2 of the data workbook, focusing on data analysis and visualization using **Tableau** and **Power BI**
 
 -----
 
@@ -14,25 +14,25 @@ This image captures the **Spotify Analysis Dashboard** created in Tableau, illus
 
 #### Task 1: Tableau Versions Comparison
 
-[cite\_start]Research was conducted to compare different Tableau versions and explain the limitations of **Tableau Public**[cite: 4, 5].
+Research was conducted to compare different Tableau versions and explain the limitations of **Tableau Public**.
 
-  * [cite\_start]**Tableau Public Limitations:** Its functionality is limited primarily by a lack of **data security**, its inability to connect to **private databases and cloud services**, and its **online-only publishing model**[cite: 5].
+  * **Tableau Public Limitations:** Its functionality is limited primarily by a lack of **data security**, its inability to connect to **private databases and cloud services**, and its **online-only publishing model**.
 
 #### Task 2: EMSI Job Change Dashboard
 
-[cite\_start]A Tableau dashboard was created using the `EMSI_JobChange_UK` dataset[cite: 7].
+A Tableau dashboard was created using the `EMSI_JobChange_UK` dataset.
 
-  * [cite\_start]**Dashboard Components:** A bar chart showing **percentage change** and a UK-based map illustrating the **key city locations impacted**[cite: 7].
+  * **Dashboard Components:** A bar chart showing **percentage change** and a UK-based map illustrating the **key city locations impacted**.
 
 -----
 
 ### Day 2: Advanced Data Analysis in Tableau
 
-[cite\_start]Analysis was performed on two distinct datasets to find and document trends, with visualizations created for each[cite: 10, 15].
+Analysis was performed on two distinct datasets to find and document trends, with visualizations created for each.
 
 #### Task 1: Spotify Data Analysis
 
-[cite\_start]Analysis was conducted to find trends and key information for potential future projects[cite: 10].
+Analysis was conducted to find trends and key information for potential future projects.
 
 | Analysis Area | [cite\_start]Key Findings [cite: 13] |
 | :--- | :--- |
@@ -43,9 +43,9 @@ This image captures the **Spotify Analysis Dashboard** created in Tableau, illus
 
 #### Task 2: Health Data Analysis
 
-[cite\_start]Analysis was conducted using the Health dataset to find trends that could be used by an organization for future support[cite: 15, 16].
+Analysis was conducted using the Health dataset to find trends that could be used by an organization for future support.
 
-  * [cite\_start]**Reflection on NHS Support:** This data could support decision-making for the NHS, as data is increasingly being used and can be lifesaving[cite: 17, 18].
+  * **Reflection on NHS Support:** This data could support decision-making for the NHS, as data is increasingly being used and can be lifesaving.
 
 | Analysis Area | [cite\_start]Key Findings [cite: 18] |
 | :--- | :--- |
