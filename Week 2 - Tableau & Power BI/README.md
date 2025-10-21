@@ -6,7 +6,7 @@
 
 ### Dataset Visualization Snapshot: Spotify Analysis
 
-[cite\_start]This image captures the **Spotify Analysis Dashboard** created in Tableau, illustrating several key trends found in the data[cite: 12].
+This image captures the **Spotify Analysis Dashboard** created in Tableau, illustrating several key trends found in the data.
 
 -----
 
