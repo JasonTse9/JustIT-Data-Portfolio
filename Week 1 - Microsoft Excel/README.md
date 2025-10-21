@@ -4,7 +4,7 @@ This workbook serves as an introduction to foundational concepts in data governa
 Dataset Snapshot
 The following image shows a portion of the retail sales data used for the foundational spreadsheet tasks.
 
-If you have uploaded the image to your repository, include the link here: ![Sample of the Retail Sales Dataset used in Week 1](Week_1_Retail_Sales_Dataset.jpg)
+Ensure the image file Week_1_Retail_Sales_Dataset.jpg is uploaded to the repository alongside this README.
 
 1. Data Governance and Compliance
 This section involved an in-depth analysis of key UK and EU data protection laws.
