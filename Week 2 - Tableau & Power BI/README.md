@@ -4,16 +4,6 @@
 
 -----
 
-### Key Information
-
-| Field | Value |
-| :--- | :--- |
-| **Name** | [cite\_start]Jason Tse [cite: 1] |
-| **Course Date** | [cite\_start]15/09/2025 [cite: 1] |
-| **Topics Covered** | Tableau Research, Data Visualization (Tableau), Power BI Labs |
-
------
-
 ### Dataset Visualization Snapshot: Spotify Analysis
 
 [cite\_start]This image captures the **Spotify Analysis Dashboard** created in Tableau, illustrating several key trends found in the data[cite: 12].
