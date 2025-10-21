@@ -28,7 +28,7 @@ Practical exercises were performed using the `retail-sales_dataset.xlsx`.
 * **Skills Demonstrated:**
     * Adding data to a structured table.
     * **Sorting data** (e.g., sorting the "Age" column from largest to smallest).
-    * Calculating basic statistics using Excel functions: `SUM` (for totals) and `AVERAGE` (for averages).
+    * Calculating basic statistics using Excel functions: "SUM" (for totals) and "AVERAGE" (for averages).
 
 ---
 
@@ -45,7 +45,7 @@ This section focused on hands-on experience with advanced data summarization tec
 
 Application of advanced conditional logic for data classification.
 
-* **Function:** Utilized the `SWITCH` function in Excel.
+* **Function:** Utilized the "SWITCH" function in Excel.
 * **Goal:** Categorizing products into "High," "Medium," or "Low" sales volumes based on predefined sales thresholds.
 
 ---
@@ -54,7 +54,7 @@ Application of advanced conditional logic for data classification.
 
 Tasks involving basic Exploratory Data Analysis (EDA) to understand data distribution.
 
-* **Functions:** Used `MAX` and `MIN` to identify sales (highest and lowest sales) per product category.
+* **Functions:** Used "MAX" and "MIN" to identify sales (highest and lowest sales) per product category.
 * **Skills:** Filtering data based on specific criteria (e.g., filtering by product category).
 
 ---
@@ -65,6 +65,6 @@ Tasks involving basic Exploratory Data Analysis (EDA) to understand data distrib
 * **Concepts:**
     * Data Protection Law (GDPR, DPA)
     * Relational Data
-    * Data Summarization (`SUM`, `AVERAGE`, Pivot Tables)
-    * Conditional Logic (`SWITCH` function)
+    * Data Summarization ("SUM", "AVERAGE", Pivot Tables)
+    * Conditional Logic ("SWITCH" function)
     * Data Visualisation Tools (Evaluated)
