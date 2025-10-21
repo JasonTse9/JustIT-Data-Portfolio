@@ -8,7 +8,6 @@ This workbook serves as an introduction to **foundational concepts in data gover
 
 The following image shows a portion of the retail sales data used for the foundational spreadsheet tasks.
 
-*If you have uploaded the image to your repository, include the link here:*
 `![Sample of the Retail Sales Dataset used in Week 1](Week_1_Retail_Sales_Dataset.jpg)`
 
 ---
