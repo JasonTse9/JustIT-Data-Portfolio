@@ -60,6 +60,12 @@ A written essay task outlining the full process of setting up a new database sys
 
 Numerous SQL query scenarios were executed on a world city/country dataset, demonstrating practical querying skills.
 
+### Dataset Snapshot
+
+The following image shows a practical MySQL statement.
+
+![Sample of the Retail Sales Dataset used in Week 1](Week_3_MySQL_Statement.png)
+
 * **Query Tasks Included:**
     * Finding cities with a specific prefix or within a certain population range.
     * Calculating **Average Population by Country** (Data Aggregation).
