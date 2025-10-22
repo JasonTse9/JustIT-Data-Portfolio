@@ -1,3 +1,7 @@
+## Workbook: Week 2 - Tableau and Microsoft Power BI 📊
+
+
+
 This workbook shifts the focus from foundational spreadsheet skills to **specialized Business Intelligence (BI)** and **data visualization tools**, specifically **Tableau** and **Microsoft Power BI**.
 
 
