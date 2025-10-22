@@ -8,7 +8,7 @@ This workbook serves as an introduction to foundational concepts in data governa
 
 The following image shows a portion of the retail sales data used for the foundational spreadsheet tasks.
 
-[Sample of the Retail Sales Dataset used in Week 1](Week_1_Retail_Sales_Dataset.jpg)
+![Sample of the Retail Sales Dataset used in Week 1](assets/Week_1_Retail_Sales_Dataset.jpg)
 
 ---
 
