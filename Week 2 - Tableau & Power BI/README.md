@@ -60,6 +60,10 @@ This involved an in-depth **Exploratory Data Analysis (EDA)** of a music dataset
 
 * **Dataset:** Spotify Dataset
 
+* The following image shows a Spotify Dashboard.
+
+![Sample of the Retail Sales Dataset used in Week 1](Week_2_Spotify_Dashboard.jpg)
+
 * **Key Trends Found:**
 
     * Music **genre popularity** (e.g., Pop is the most popular).
