@@ -1,8 +1,3 @@
-
-That's an excellent idea. The image provides clear visual evidence of the Exploratory Data Analysis (EDA) mentioned in your Week 2 Workbook.
-
-I will update the README to embed the image and modify the surrounding text for better context.
-
 Workbook: Week 2 - Tableau and Microsoft Power BI 📊
 This workbook shifts the focus from foundational spreadsheet skills to specialized Business Intelligence (BI) and data visualization tools, specifically Tableau and Microsoft Power BI.
 
