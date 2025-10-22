@@ -51,6 +51,12 @@ Practical exercises focused on modifying and cleaning the structure and content 
 
 Advanced analysis was performed on a country/demographics dataset, combining data cleaning with visualization.
 
+### Python Visual Snapshot
+
+The following image shows a Python visual.
+
+![Sample of the Retail Sales Dataset used in Week 1](Week_6_Python_Visuals.png)
+
 * **Data Wrangling:**
     * Counting countries per region (**Statistical Aggregation**).
     * Calculating and filling **missing data** (imputing null values by the mean/average).
