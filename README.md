@@ -1,19 +1,26 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jason Tse
-==================================================================================================================================
+# Data Analyst Bootcamp Portfolio
 
-Data Analysis Bootcamp Portfolio
---------------------------------
+This repository showcases the work completed during my comprehensive Data Analyst bootcamp training. Over several weeks, I have built a foundational and practical skillset in various data analyst tools and techniques.
 
-I am a Data Analyst, transforming data into easy to analyse and clear visuals.
+## Project Overview
 
-* 🌍  I'm based in United Kingdom
-* ✉️  You can contact me at [jasontse@live.co.uk](mailto:jasontse@live.co.uk)
-* 🧠  I'm currently learning Microsoft Excel, Tableau, Power BI, MySQL, Python
+The core of this portfolio consists of multiple **workbooks** that document my practical application of essential data technician skills. My learning path focused on developing a strong understanding of the data lifecycle:
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a>
-</p>
+* **Fundamentals and Quality Control (Weeks 2 & 3):** I started by mastering the basics of **data handling and quality control**. This included a heavy focus on the critical processes of **cleaning, validating, and structuring data**, which are core requirements for ensuring data reliability.
+* **Advanced Application (Weeks 5 & 6):** As I progressed, I applied these fundamentals to more complex tasks, including **data analysis, advanced manipulation**, and an introduction to **reporting and insights extraction**.
 
-### Socials
+## Tools & Technologies
 
-<p align="left"> <a href="https://www.github.com/JasonTse9" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+The bootcamp provided hands-on experience with the following industry-standard data analyst tools:
+
+| Category | Tool / Language |
+| :--- | :--- |
+| **Spreadsheets** | **Microsoft Excel** |
+| **Data Visualization** | **Tableau** |
+| **Business Intelligence** | **Microsoft Power BI** |
+| **Databases** | **MySQL** |
+| **Programming** | **Python** |
+
+## Key Takeaways
+
+The assignments have provided me with a solid, **practical grounding** in the day-to-day responsibilities of a Data Technician, preparing me to **manage and process data accurately** and support data-driven decision-making for various business needs.
