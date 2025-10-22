@@ -60,7 +60,11 @@ Analysis of data rights in an employer-employee context and key Intellectual Pro
     * Defined **Copyright Infringement** and **Plagiarism**.
     * Listed consequences of **software piracy**.
 
-***
+### Microsoft Azure Lab
+
+The following image shows a relational data with the use of Microsoft Azure Labs.
+
+![Sample of the Retail Sales Dataset used in Week 1](Week_5_Azure_Lab.png)
 
 ### Technical Skills Demonstrated
 
